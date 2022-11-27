@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jxah
 - 👀 I’m interested in -> pithon
-- 🌱 I’m currently learning -> about svgs
+- 🌱 I’m currently learning -> about SSH, svgs, and fish
 - 💞️ I’m looking to collaborate on -> games
 - 📫 How to reach me ->  contact me on any of my repos
 
