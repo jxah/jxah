@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jxah
-- 👀 I’m interested in -> pithon
-- 🌱 I’m currently learning -> about SSH, svgs, and fish
-- 💞️ I’m looking to collaborate on -> games
+- 👀 I’m interested in -> python
+- 🌱 I’m currently learning -> about eaglerforge
+- 💞️ I’m looking to collaborate on -> mods
 - 📫 How to reach me ->  contact me on any of my repos
 
 <!---
